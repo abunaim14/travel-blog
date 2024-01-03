@@ -1,14 +1,21 @@
 *{
+    margin: 0;
     box-sizing:border-box;
 }
 .head {
     background-color:rgb(44, 44, 44);
     padding: 17px;
     display:flex;
+    
     justify-content: flex-end;
 }
+.span{
+    flex-direction: left;
+}
+    
 .nevbar {
     /* padding: 7px; */
+    
 }
 .nevbar a {
     text-decoration: none;
@@ -19,7 +26,7 @@
 span {
     color:aliceblue;
     display:block;
-    justify-content: flex-start;
+
       
 }
 .main {
