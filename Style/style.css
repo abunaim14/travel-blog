@@ -10,7 +10,7 @@
     justify-content: flex-end;
 }
 .span{
-    flex-direction: left;
+    text-align: left;
 }
     
 .nevbar {
